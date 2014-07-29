@@ -7,12 +7,14 @@
     <authors>J.Sakamoto</authors>
     <owners>J.Sakamoto</owners>
     <!--
-    <licenseUrl/>
     <iconUrl/>
     -->
     <projectUrl>https://github.com/jsakamoto/Http405WithoutExceptionHandler</projectUrl>
+    <licenseUrl>https://github.com/jsakamoto/Http405WithoutExceptionHandler/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>(description)</description>
+    <description><![CDATA[
+    This Http handler respond only HTTP 405 (method not allowed) without System.Web.HttpException.
+    ]]></description>
     <releaseNotes>
       <![CDATA[
     ]]>
