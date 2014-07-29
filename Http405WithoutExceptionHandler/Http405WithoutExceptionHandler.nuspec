@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>J.Sakamoto</authors>
+    <owners>J.Sakamoto</owners>
+    <!--
+    <licenseUrl/>
+    <iconUrl/>
+    -->
+    <projectUrl>https://github.com/jsakamoto/Http405WithoutExceptionHandler</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>(description)</description>
+    <releaseNotes>
+      <![CDATA[
+    ]]>
+    </releaseNotes>
+  </metadata>
+</package>
